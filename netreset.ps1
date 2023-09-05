@@ -33,7 +33,8 @@ Check-RunAsAdministrator
  
 #Place your script here.
 pnputil /scan-devices	
-pnputil /remove-device "PCI\VEN_8086&DEV_1503&SUBSYS_20178086&REV_05\3&11583659&0&C8"
+#replace the device ID with your device ID... you can look it up by pnputil /enum-devices
+pnputil /remove-device "PCI\VEN..." 
 pnputil /scan-devices	
 write-host "Welcome"
 
