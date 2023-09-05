@@ -1,4 +1,4 @@
-# Script to reset LAN card on wake-up
+# Script to reset LAN card on wake-up in Windows 10/11
 
 This is a script I wrote to reset our Home PC's LAN card. Old Intel PCs have a problem with their LAN connections getting disrupted on wake up. A simple solution is to open device-manager and reset the network-adapter.
 
