@@ -1,5 +1,5 @@
 # Script to reset LAN card on wake-up in Windows 10/11
-On some devices, you needn't do any of this. All you need to do is wait about 30 to 40 seconds for your connection to reinitialize. It's just old hardware and takes time and the below process may not be needed. Please try waiting as mentioned before trying any of the above or below fixes.
+A preliminary note of caution: On some devices, you needn't do any of this. All you need to do is wait about 30 to 40 seconds for your connection to reinitialize. It's just old hardware and takes time and the below process may not be needed. Please try waiting as mentioned before trying any of the above or below fixes.
 
 This is a script I wrote to reset our Home PC's LAN card. Old Intel PCs have a problem with their LAN connections getting disrupted on wake up. A simple solution is to open device-manager and reset the network-adapter.
 
