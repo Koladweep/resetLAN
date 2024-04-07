@@ -10,4 +10,6 @@ simple:
 7) P.S. Define minimum number of triggers it takes to get the task running. It will take some time to find out. I have selected two out of three most recurring LAN card relating events, Startup, Login, Workstation unlock. Which of these is actually making the scriptlet work, I'm yet to find out.
 ----------------------------End of endeavour----------------------------------------------------------------------
 
-   Permanant fix. Get a new PC :) This doesn't work stops working every few weeks 🥲
+   Permanant fix-> Get a new PC 🥲
+
+   This stops working every few weeks. Support for aged hardware is a perpetual pain for hardware vendors, software developers, maintainers and consumers.
